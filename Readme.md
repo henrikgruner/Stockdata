@@ -1,14 +1,13 @@
 #Stockdata
 requirements:
-Python 3 and
+Python 3 and pip.
 ```
-import requests
-import seaborn as sns
-import matplotlib.pyplot as plt
-import pandas as pd
-from datetime import datetime
-from matplotlib import rcParams
+pip install requests
+pip install seaborn
+pip install matplotlib
+pip install pandas
 ```
+Also need Yahoo Finance API-keys. Can be found at rapidAPI.
 
 ## Testing Yahoo finance API
 
