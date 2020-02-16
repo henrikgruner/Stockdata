@@ -1,4 +1,4 @@
-#Stockdata
+# Stockdata
 requirements:
 Python 3 and pip.
 ```
