@@ -1,3 +1,15 @@
+#Stockdata
+requirements:
+Python3
+
+'''
+import requests
+import seaborn as sns
+import matplotlib.pyplot as plt
+import pandas as pd
+from datetime import datetime
+from matplotlib import rcParams
+'''
 
 ## Testing Yahoo finance API
 
